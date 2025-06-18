@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { mergeVideoConfig } from "../utils/videoConfig";
 import { Maximize } from "lucide-react";
 import { VideoPlayer } from "./VideoPlayer";
